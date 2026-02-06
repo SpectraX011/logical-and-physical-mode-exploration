@@ -1,0 +1,11 @@
+# Ignore Windows and Mac system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore Packet Tracer temporary/backup files
+*.bak
+*.tmp
+
+# Ignore Editor settings
+.vscode/
